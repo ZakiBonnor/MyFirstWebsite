@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body{
     background-image: url("../img/507.jpg");
     color:white;
@@ -11,7 +17,7 @@ div{
     border-radius: 10px;
     margin: auto;
     background: rgba(0, 0, 0, 0.3);
-    top: 20%;
     position: absolute;
-    left: 37%;
+    top: 35%;
+    left: 35%;
 }
